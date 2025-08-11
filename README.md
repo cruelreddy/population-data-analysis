@@ -27,8 +27,8 @@
 ## Project Structure
 
 • `sales_analysis.ipynb`: Main notebook containing analysis and visual outputs  
-• `sales_data.csv`: Dataset used in the project (if available)  
-• `screenshots/`: Folder with generated plots (optional)
+• `sales_data.csv`: Dataset used in the project 
+• `screenshots/`: Folder with generated plots 
 
 
 
