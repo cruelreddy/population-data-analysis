@@ -50,4 +50,4 @@
 ## Author
 
 • Konda Sudhakar Reddy  
-• GitHub: https://github.com/cruelreddy
+• GitHub: https://github.com/sudhakarreddy2005
