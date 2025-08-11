@@ -9,10 +9,11 @@
 ## Tools and Libraries Used
 
 • Python  
-  • Pandas  
-  • Matplotlib  
-  • Seaborn  
-• Jupyter Notebook
+  - Pandas  
+  - Matplotlib  
+  - Seaborn
+  
+   • Jupyter Notebook
 
 
 
