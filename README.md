@@ -1,8 +1,8 @@
-# Data Analysis on Sales Dataset
+# Data Analysis on Population Dataset
 
-• Performed exploratory data analysis (EDA) on a sample sales dataset  
+• Performed exploratory data analysis (EDA) on a sample Population dataset  
 • Used Python libraries: Pandas, Matplotlib, and Seaborn  
-• Identified top-selling products and seasonal sales patterns  
+• Identified highest Populated countries and it's patterns  
 
 
 
@@ -19,32 +19,32 @@
 
 ## Key Insights
 
-• Cleaned and structured raw sales data  
-• Visualised monthly and category-wise sales using charts  
-• Highlighted best-performing regions and product types
+• Cleaned and structured raw Population data  
+• Visualised and category-wise Population using charts  
+
 
 
 
 ## Project Structure
 
 • `visual.ipynb`: Main notebook containing analysis and visual outputs  
-• `sales_data.csv`: Dataset used in the project 
+• `population_data.csv`: Dataset used in the project 
 
 
 
 
 ## How to Run
 
-• Open `sales_analysis.ipynb` in Jupyter Notebook or VS Code  
+• Open `visual.ipynb` in Jupyter Notebook or VS Code  
 • Ensure required libraries are installed: `pandas`, `matplotlib`, `seaborn`  
 • Run the cells in order to generate charts and insights
 
 
 ## Output Highlights
 
-• Monthly sales trends  
-• Top-performing products  
-• Sales comparison across regions and seasons
+• Population trends  
+• Highest population countries 
+• Population comparison across regions
 
 
 
