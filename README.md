@@ -29,7 +29,7 @@
 
 • `visual.ipynb`: Main notebook containing analysis and visual outputs  
 • `sales_data.csv`: Dataset used in the project 
-• `screenshots/`: Folder with generated plots 
+
 
 
 
